@@ -7,7 +7,6 @@
 - [Usage](#usage)
 - [Output](#output)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -128,11 +127,5 @@ If you'd like to contribute to this project, please follow these steps:
 6. Create a pull request to the main repository, explaining your changes and improvements.
 
 We welcome your contributions and ideas to make this project even better!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for using the Houzz.com Scraper! Happy web scraping and data extraction! If you have any questions or need assistance, feel free to open an issue or contact the maintainers.
